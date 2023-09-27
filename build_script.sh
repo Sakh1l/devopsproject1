@@ -5,7 +5,7 @@ git clone https://github.com/Sakh1l/devopsproject1.git
 
 # Navigate to the cloned repo folder
 
-cd devopsproject1
+mv devopsproject1 /home/sak/projects/Kaniyam
 
 # build the docker image 
 
